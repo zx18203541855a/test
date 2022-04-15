@@ -1,2 +1,5 @@
 apple
 
+pear
+
+orange

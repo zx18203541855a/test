@@ -17,7 +17,9 @@ push cooleration
 
 pull
 
+<<<<<<< HEAD
 test conflict
 
 fruit conflict
 
+fruit conflict2

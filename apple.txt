@@ -13,3 +13,6 @@ spark
 hadoop
 
 push cooleration
+
+
+pull
